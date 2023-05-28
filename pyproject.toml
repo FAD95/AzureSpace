@@ -16,6 +16,7 @@ scikit-learn = "^1.2.2"
 pydotplus = "^2.0.2"
 azureml-sdk = "^1.51.0"
 openpyxl = "^3.1.2"
+graphviz = "^0.20.1"
 
 
 [build-system]
